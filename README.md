@@ -2,7 +2,8 @@
 An application that takes an input of username and message from a user and gives back 
 the input on the DOM. If a user likes the comment they can thumbs or thumbs down it.
 win or lose.
-![image](https://user-images.githubusercontent.com/112406976/200210981-cb43e6fb-ae08-4822-a323-71b823694602.png)
+![image](https://user-images.githubusercontent.com/112406976/200218027-e0c3cbfc-d733-4554-89c1-a67a933fe66a.png)
+
 # Tech Used: HTML, CSS, EJS, Express, Passport
 This project took HTML, CSS, EJS, and express to get the desired result. 
 # Lessons Learned
